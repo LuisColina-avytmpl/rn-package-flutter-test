@@ -64,7 +64,7 @@ class _CustomBottomWidgetState extends State<CustomBottomWidget> {
                     TextInputType.multiline, // Allows multiple lines of text
                 maxLines: null, // Allows unlimited lines of text
                 decoration: const InputDecoration(
-                  hintText: 'Ask to Davy...',
+                  hintText: 'Ask to Chatbot...',
                   border: InputBorder.none,
                 ),
               ),
